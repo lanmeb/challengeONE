@@ -9,7 +9,20 @@ O objetivo é identificar a loja com menor eficiência e apresentar uma recomend
 ## Sumário
 1. [Objetivo](#objetivo)
 2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-3. [Resultados](#resultados)
+3. [Relatório](#Relatório-Estratégico-para-Venda-da-Loja)
+4. [Introdução](#Introdução)
+5. [Análises realizadas](#analises-realizadas)
+6. [Categorias Mais vendidos](#Categorias-de-Produtos-Mais-e-Menos-Vendidos)
+7. [Avaliações de Cliente](#Média-das-Avaliações-de-Clientes)
+8. [Produtos Mais vendidos](#Produtos-Mais-e-Menos-Vendidos)
+9. [Frete médio](#frete-medio)
+10. [Resultados](#Conclusão-e-Recomendação)
+
+
+
+
+
+
 
 ---
 ##  Objetivo  
@@ -36,16 +49,14 @@ Explique de forma breve os passos realizados no projeto, como:
 5. Visualização e interpretação dos resultados
 -->
 
----
-
 ## Resultados
 
-## 📖✍️ Relatorio Estratégico para Venda da Loja
-### 1. 💡 Introdução
+## 📖✍️ Relatório Estratégico para Venda da Loja
+###  💡 Introdução
 
 O objetivo deste relatório é determinar qual loja o Senhor João deve vender, considerando diversos fatores de desempenho, incluindo faturamento, categorias de produtos, avaliações dos clientes, desempenho dos produtos mais e menos vendidos, e custos de frete. A decisão será baseada em dados quantitativos e qualitativos para garantir a melhor escolha estratégica.
 
-### 2. 📊💰📈  Análises Realizadas
+###  📊💰📈  Análises Realizadas
 
 💰 Faturamento Total
 
@@ -56,17 +67,18 @@ O objetivo deste relatório é determinar qual loja o Senhor João deve vender, 
 *	Loja 3: R$1.464.025,03
 
 *	Loja 4: R$1.384.497,58 - (menor faturamento com 23.6% das vendas)
-*	
+  
 ![Gráfico de Faturamento](https://github.com/lanmeb/challengeONE/blob/main/AluraStore/Faturamento.png)
 
-### 3. 🎮 Categorias de Produtos Mais e Menos Vendidas 🏀
+###  🎮 Categorias de Produtos Mais e Menos Vendidos 🏀
 
 *	🛋️ As categorias de móveis e 📱 eletrônicos lideram as vendas em todas as lojas, sendo que a Loja 3 e 4 lideram nessa categoria.
 
-* 📚 As categorias de livros e utilidades domésticas foram as mais baixas 
+* 📚 As categorias de livros e utilidades domésticas foram as mais baixas.
+   
 ![Gráfico de Avaliações](https://github.com/lanmeb/challengeONE/blob/main/AluraStore/Categoria.png)
 
-### 4. 🌟	Média das Avaliações de Clientes 😊
+### 🌟	Média das Avaliações de Clientes 😊
 
 * 👍 A	Loja 3 possui a melhor média (4,05), seguida por Loja 2 (4,04).
 * 👎 A	Loja 1 tem a menor média (3,98) e a Loja 4 (4,00).
@@ -74,17 +86,22 @@ O objetivo deste relatório é determinar qual loja o Senhor João deve vender, 
 ### 📊✨ Visualização do Gráfico
 ![Gráfico de Avaliações](https://github.com/lanmeb/challengeONE/blob/main/AluraStore/media.png)
 
-
-### 5.	🏆🎯🔥 Produtos Mais e Menos Vendidos ❌⏬🔍
+###	🏆🎯🔥 Produtos Mais e Menos Vendidos ❌⏬🔍
 
 *	🏆 Produtos grandes e de valor agregado (como guarda-roupas e camas king) lideram nas vendas.
 * ⏬	Produtos específicos, como livros educacionais e instrumentos musicais, aparecem frequentemente entre os menos vendidos.
 
-### 6. 📦	Frete Médio
+![Mais vendidos](https://github.com/lanmeb/challengeONE/blob/main/AluraStore/p.png)
+![Mais vendidos](https://github.com/lanmeb/challengeONE/blob/main/AluraStore/p2.png)
+
+### 📦	Frete Médio
 
 * 🚚 A	Loja 4 tem o menor custo de frete (R$31,28),
 
 * ✈️ enquanto A Loja 1 apresenta o maior (R$34,69).
+
+![Frete](https://github.com/user-attachments/assets/39059db7-d0e6-4fac-8088-5aa79eaaf89f)
+
 
 ## 🚀✨ Conclusão e Recomendação
 
