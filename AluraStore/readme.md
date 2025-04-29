@@ -7,20 +7,25 @@ O objetivo é identificar a loja com menor eficiência e apresentar uma recomend
 ---
 
 ## Sumário
-1. [Objetivo](#objetivo)
-2. [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-3. [Relatório](#Relatório-Estratégico-para-Venda-da-Loja)
-4. [Introdução](#Introdução)
-5. [Análises realizadas](#analises-realizadas)
-6. [Categorias Mais vendidos](#Categorias-de-Produtos-Mais-e-Menos-Vendidos)
-7. [Avaliações de Cliente](#Média-das-Avaliações-de-Clientes)
-8. [Produtos Mais vendidos](#Produtos-Mais-e-Menos-Vendidos)
-9. [Frete médio](#frete-medio)
-10. [Resultados](#Conclusão-e-Recomendação)
+[Objetivo](#objetivo)
 
+[Bibliotecas Utilizadas](#bibliotecas-utilizadas)
 
+[Relatório](#Relatório-Estratégico-para-Venda-da-Loja)
 
+[Introdução](#Introdução)
 
+[Análises realizadas](#analises-realizadas)
+
+[Categorias Mais vendidos](#Categorias-de-Produtos-Mais-e-Menos-Vendidos)
+
+[Avaliações de Cliente](#Média-das-Avaliações-de-Clientes)
+
+[Produtos Mais vendidos](#Produtos-Mais-e-Menos-Vendidos)
+
+[Frete médio](#frete-medio)
+
+[Resultados](#Conclusão-e-Recomendação)
 
 
 
