@@ -110,7 +110,7 @@ O objetivo deste relatório é determinar qual loja o Senhor João deve vender, 
 
 ## 🚀✨ Conclusão e Recomendação
 
-#### 📌 Recomenda-se a venda da Loja 4. Apesar do menor custo de frete e boa performance em categorias específicas, a Loja 4 apresenta o menor faturamento e tem fraca performance em categorias chave (como eletrodomésticos e instrumentos musicais), além de menor média de avaliações de clientes em relação à média geral. Essa venda permitirá ao Senhor João focar recursos em lojas com melhor desempenho geral, como a Loja 3, que lidera em avaliações e mantém boa diversidade de produtos vendidos.
+📌 Recomenda-se a venda da Loja 4. Apesar do menor custo de frete e boa performance em categorias específicas, a Loja 4 apresenta o menor faturamento e tem fraca performance em categorias chave (como eletrodomésticos e instrumentos musicais), além de menor média de avaliações de clientes em relação à média geral. Essa venda permitirá ao Senhor João focar recursos em lojas com melhor desempenho geral, como a Loja 3, que lidera em avaliações e mantém boa diversidade de produtos vendidos.
 🤝
 ---
 
