@@ -48,16 +48,41 @@ Extração de dados da API TelecomX no GitHub : [Link](https://github.com/ingrid
 ✅ Consultar o dicionário para entender melhor os significados das variáveis.
 
 ✅ Identificar as colunas mais relevantes para a análise de evasão.
-* customer.tenure – Mostra há quanto tempo o cliente está ativo. Clientes com pouco tempo de casa tendem a ter maior propensão ao cancelamento.
-
-* account.Contract – O tipo de contrato (mensal, anual etc.) influencia diretamente na probabilidade de churn. Contratos mensais geralmente têm maior rotatividade.
-
-* internet.TechSupport, internet.OnlineSecurity, internet.DeviceProtection – Indicam se o cliente utiliza serviços que aumentam a fidelidade. A ausência desses pode estar relacionada à saída.
-
-* account.PaperlessBilling e account.PaymentMethod – Podem revelar perfis mais modernos ou dificuldades de pagamento, dependendo do caso.
-
-* customer.Partner e customer.Dependents – Clientes com responsabilidades familiares tendem a ter comportamentos diferentes de evasão.
-
-* internet.InternetService e phone.PhoneService – Se o cliente usa poucos serviços, pode ser mais propenso a sair.
+* 1. 💁 customer.tenure 
+* 2. 📅 account.Contract 
+* 3. 📡 internet.TechSupport, internet.OnlineSecurity, internet.DeviceProtection 
+* 4. 📬 account.PaperlessBilling e account.PaymentMethod 
+* 5. 👨‍👩‍👧 customer.Partner e customer.Dependents 
+* 6. ☎️ internet.InternetService e phone.PhoneService 
 
 # 📊 Carga e Análise (L - Load & Analysis)
+
+# 📋 Relatório Final — Principais Insights sobre Evasão de Clientes (Churn)
+1.  💁  Visão Geral do Churn
+* A maior parte dos clientes permanece ativa, mas os padrões de cancelamento revelam riscos importantes para a empresa.
+
+2. ⏰ Tempo de Serviço (Tenure)
+* Churn é mais comum nos primeiros meses de contrato.
+* Clientes com mais tempo de casa apresentam maior lealdade e retenção.
+
+3. 📅 Tipo de Contrato
+* Contratos mensais concentram os maiores percentuais de churn (acima de 40%).
+* Contratos anuais/bienais têm menor evasão — indicando que comprometimento de longo prazo contribui para retenção.
+
+4. 👨‍👩‍👧 Perfil Familiar: Parceiro(a) e Dependentes
+* Clientes sem parceiro ou dependentes apresentam maior propensão ao churn.
+* Laços familiares (como parceiro e filhos) demonstram efeito positivo na permanência.
+
+5. ☎️ Serviços Contratados
+* A ausência de suporte técnico, segurança online ou proteção de dispositivos está associada a maior churn.
+* Clientes que usam múltiplos serviços permanecem mais tempo, reforçando o efeito da percepção de valor.
+
+6. 💳 Forma de Pagamento e Fatura
+* Fatura digital está associada a maior evasão, possivelmente ligada a perfis menos engajados.
+* Cheque eletrônico apresenta maiores taxas de churn; boleto e débito automático variam conforme perfil.
+
+## 📌 Recomendações Estratégicas
+* Investir em engajamento nos primeiros meses de contrato.
+* Incentivar planos de longo prazo com benefícios exclusivos.
+* Oferecer pacotes de serviços agregados para aumentar a fidelização.
+* Desenvolver campanhas personalizadas para perfis com risco elevado de churn.
